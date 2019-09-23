@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is demo conflict created at git bash master
+ffgfs
+This file is used as demo for conflict
+>>>>>>> 30d5982a44abe51636183ab1dc52b3b976cbb252
