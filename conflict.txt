@@ -1,0 +1,1 @@
+This is demo conflict created at git bash master
